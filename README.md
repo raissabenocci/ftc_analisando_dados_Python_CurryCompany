@@ -1,0 +1,2 @@
+# ftc_analisando_dados_Python_CurryCompany
+ftc_analisando_dados_Python para o projeto da CurryCompany
